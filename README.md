@@ -1,1 +1,1 @@
-# bet-the-hero
+# be-the-hero
